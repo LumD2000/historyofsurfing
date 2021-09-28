@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+
+}
+
+body {
+  background-image: url("download.jpg");
+  color: red;
+}
+
+p {
+  font-family: 'Gochi Hand', sans-serif;
+}
